@@ -34,6 +34,13 @@ I added the project tooltips and budget tooltips for present more details.
 
 ![image](https://user-images.githubusercontent.com/129491801/232890387-f7a4c7ce-818e-4937-8012-ebf35a61240b.png)
 
+you can see the variance of budget breakdown by month, I use the conditional formating also for the different colors.
 
-![image](https://user-images.githubusercontent.com/129491801/232890435-22fb3c87-333a-4aa6-a640-bbfe66de6e6e.png)
 
+![image](https://user-images.githubusercontent.com/129491801/232891303-785ccfb5-7dc7-412e-be63-807f2968b0aa.png)
+
+
+
+5.Summary
+
+The dashboard improved the efficiency of reporting workflow, presenting the key metrics and info to senior manager.
