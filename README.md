@@ -25,9 +25,15 @@ To better use the date function, I created also the table date dimension.
 
 4.Design
 
+I design and build the interative POWER BI dashboard to present to the senior managers and project managers.
+
 ![image](https://user-images.githubusercontent.com/129491801/232890099-7177272e-d02f-4cb5-a2df-3f5d298b2894.png)
 
 
+I added the project tooltips and budget tooltips for present more details.
+
+![image](https://user-images.githubusercontent.com/129491801/232890387-f7a4c7ce-818e-4937-8012-ebf35a61240b.png)
 
 
+![image](https://user-images.githubusercontent.com/129491801/232890435-22fb3c87-333a-4aa6-a640-bbfe66de6e6e.png)
 
